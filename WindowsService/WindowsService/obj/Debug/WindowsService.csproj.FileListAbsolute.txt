@@ -1,0 +1,8 @@
+D:\repo\practice\WindowsService\WindowsService\WindowsService\bin\Debug\WindowsService.exe.config
+D:\repo\practice\WindowsService\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+D:\repo\practice\WindowsService\WindowsService\WindowsService\bin\Debug\WindowsService.pdb
+D:\repo\practice\WindowsService\WindowsService\WindowsService\obj\Debug\WindowsService.csprojResolveAssemblyReference.cache
+D:\repo\practice\WindowsService\WindowsService\WindowsService\obj\Debug\WindowsService.ProjectInstaller.resources
+D:\repo\practice\WindowsService\WindowsService\WindowsService\obj\Debug\WindowsService.csproj.GenerateResource.Cache
+D:\repo\practice\WindowsService\WindowsService\WindowsService\obj\Debug\WindowsService.exe
+D:\repo\practice\WindowsService\WindowsService\WindowsService\obj\Debug\WindowsService.pdb
